@@ -6,3 +6,5 @@ print("hello")
 
 x="a"
 print(x)
+
+print("1234")
