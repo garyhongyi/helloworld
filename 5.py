@@ -79,8 +79,8 @@ for x in fruits :
 for x in  range ( 10 ) : #rang(10)is 0-9
   print ( x )
 #range(3, 10), which means the value is 3 to 10 (but not including 10)
-  print()
-#每隔三个进一个
-  for x in  range ( 3 ,  50 ,  6 ) : 
-   print ( x )
-
+print()
+#每隔six个进一个
+for x in  range ( 3 ,  50 ,  6 ) : 
+  print ( x )
+#how to use function:
